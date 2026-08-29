@@ -14,9 +14,8 @@ comes out. Two marker genes are processed in parallel: **16S rRNA**
 identify microorganisms from a DNA sample without culturing them.
 
 This repository was produced by Simao Rafique, MSc student at Newcastle
-University (2023-24), as part of an MSc dissertation project, and is
-shared here as a personal portfolio showcase. See [LICENSE](LICENSE) for
-data ownership, scope, and usage terms.
+University (2023-24), as part of an MSc dissertation project. See
+[LICENSE](LICENSE) for data ownership, scope, and usage terms.
 
 ## Why this is here
 
