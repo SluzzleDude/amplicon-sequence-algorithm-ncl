@@ -1,0 +1,18 @@
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# Intermediate filtered-read output produced by running the workflow scripts
+**/filtered/
+**/filtN/
+
+# Narrative write-ups (Word docs)
+*.docx
+
+# Data tables (kept locally, not published)
+*.csv
+*.xlsx
+
+# Image-gen prompt (kept locally, not published)
+workflow_diagram_prompt.txt

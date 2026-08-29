@@ -1,0 +1,33 @@
+Copyright and usage notice
+
+Copyright (c) 2024 Simao Rafique. All rights reserved.
+
+This repository is published as a personal portfolio showcase of analysis
+work carried out by Simao Rafique, MSc student, Newcastle University
+(2023-24), as part of an MSc dissertation project at Newcastle University.
+It is not an open-source software release, and no license to copy, modify,
+or redistribute the contents is granted.
+
+Data
+----
+The underlying research data (paired-end 16S rRNA and ITS amplicon sequencing
+reads from a hydroponics microbiome experiment) belongs to a research project
+conducted at Newcastle University. This repository includes 4 example FASTQ
+files (2 forward/reverse pairs, one 16S and one ITS) out of the several
+thousand files that made up the full ~20 GB raw sequencing dataset. The full
+raw dataset is not published in this repository. These example files, and
+the processed/summarized outputs derived from the full dataset, are shared
+here solely to illustrate the analysis for portfolio purposes.
+
+DADA2 pipeline attribution
+---------------------------
+The DADA2 methodology used in this repository's workflow scripts is not the
+repository owner's original work. DADA2 was developed by Benjamin Callahan
+and colleagues. See https://benjjneb.github.io/dada2/ for the original
+software, documentation, and license. This repository contains only the
+owner's application of that published pipeline to their own dissertation
+data, plus their own downstream statistical analysis and visualization code.
+
+Contact
+-------
+For questions about this repository, please contact the owner directly.
